@@ -1,0 +1,19 @@
+{
+  "wallpapers": [
+    {
+            "name": "Mountains",
+            "author": "Brady Bellini",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/mountains.png"
+        },
+        {
+            "name": "Lake",
+            "author": "Nathan Anderson",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/lake.jpg"
+        },
+        {
+            "name": "Stairs",
+            "author": "Geran de Klerk",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/stairs.jpg"
+        }
+  ]
+}
